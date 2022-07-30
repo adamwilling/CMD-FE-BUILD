@@ -8,8 +8,7 @@
       "type": "image/x-icon"
     }
   ],
-  "start_url": "/login",
-  "scope": "/",
+  "start_url": ".",
   "display": "standalone",
   "theme_color": "#2F6BB1",
   "background_color": "#EDFAF9"
